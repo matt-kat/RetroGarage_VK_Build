@@ -1,0 +1,67 @@
+{
+    "disableLoadingLogo" : true,
+    "platforms": {
+        "game_distribution": {
+            "gameId": ""
+        },
+        "telegram": {
+            "adsgramBlockId": ""
+        },
+        "y8": {
+            "gameId": "",
+            "adsenseId": "",
+            "channelId": ""
+        },
+        "lagged": {
+            "devId": "",
+            "publisherId": ""
+        },
+        "msn": {
+            "gameId": ""
+        },
+        "discord" : {
+            "appId": ""
+        },
+        "gamepush": {
+            "projectId": "",
+            "publicToken": ""
+        }
+    },
+    "advertisement": {
+        "interstitial": {
+            "preloadOnStart": true
+        },
+        "rewarded": {
+            "preloadOnStart": true
+        },
+        "useBuiltInErrorPopup": true,
+        "backfillId": ""
+    },
+      "payments": [
+    {
+      "id": "Gold_1500",
+      "yandex": { "id": "Gold_1500" },
+      "msn":    { "id": "Gold_1500" }
+      ,"playgama": { "amount": 10 }
+    }    ,
+    {
+      "id": "Gold_3250",
+      "yandex": { "id": "Gold_3250" },
+      "msn":    { "id": "Gold_3250" }
+      ,"playgama": { "amount": 10 }
+    }    ,
+    {
+      "id": "Gold_8000",
+      "yandex": { "id": "Gold_8000" },
+      "msn":    { "id": "Gold_8000" }
+      ,"playgama": { "amount": 10 }
+    }    ,
+    {
+      "id": "Gold_20000",
+      "yandex": { "id": "Gold_20000" },
+      "msn":    { "id": "Gold_20000" }
+      ,"playgama": { "amount": 10 }
+    }
+  ],
+    "leaderboards": []
+}
